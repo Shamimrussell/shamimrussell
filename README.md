@@ -1,47 +1,64 @@
-<h1>Hi, I'm Shamim! <br/><a href="https://github.com/shamimrussell">IT Test Specialist (Student)</a>, <a href="https://www.linkedin.com/in/shamim-russell-b5a78587/">Cybersecurity Interrested</a> 
+<h1 align="center">
+Hi, I'm Shamim 👋
+</h1>
 
-<h2>🌱 I’m currently learning:</h2>
-- <b>Data Structures and Algorithms Practice </b>
-  - [Praciting DS & Algos in Python]()
+<h3 align="center">
+IT Test Specialist (Student) | Cybersecurity Enthusiast
+</h3>
 
-- <b>API Testing</b>
- 
-  
-<h2>🗂️ Software Development Projects:</h2>
+<p align="center">
+<a href="https://github.com/shamimrussell">GitHub</a> • 
+<a href="https://www.linkedin.com/in/shamim-russell-b5a78587/">LinkedIn</a>
+</p>
 
-- <b>Applied Script </b>
-  - [Praciting in Python](https://github.com/Shamimrussell/applied-script-projektarbete)
-  - [Hello World]()
-    
-<h2>☢️ Cyber Security Projects:</h2>
+---
 
-- <b>Data </b>
-  - [Under Progress ]()
+<h2>🌱 Currently Learning & Practicing</h2>
 
-<h2>📝 Certifications:</h2>
-- <b>ISTQB </b>
+- 📚 <b>Data Structures & Algorithms</b>  
+  - Practicing DSA in Python  
 
-<h2> 🤳 Connect with me:</h2>
+- 🔍 <b>API Testing</b>  
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- 🤖 <b>Test Automation</b>  
+  - Building automated test frameworks  
 
-[twitter]: 
-[youtube]: 
-[instagram]: https://www.instagram.com/shamaniax/
-[linkedin]: https://www.linkedin.com/in/shamim-russell-b5a78587/
+- 🔄 <b>CI/CD</b>  
+  - Learning pipeline integration & automated deployments  
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<h2>🗂️ Software & QA Projects</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b>Applied Script</b>
+- 🐍 <a href="https://github.com/Shamimrussell/applied-script-projektarbete">Python Project</a>  
+
+<b>Test Automation</b>  
+- 🚧 Coming Soon  
+
+---
+
+<h2>☢️ Cybersecurity Projects</h2>
+
+<b>Security & Data Projects</b>  
+- 🚧 Under Progress  
+
+---
+
+<h2>📝 Certifications</h2>
+
+- ✅ ISTQB Certified Tester (May 2026)
+
+---
+
+<h2 align="center">🤳 Connect with me</h2>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/shamim-russell-b5a78587/">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30px"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/shamaniax/">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="30px"/>
+</a>
+</p>
