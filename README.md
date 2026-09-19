@@ -1,64 +1,43 @@
-<h1 align="center">
-Hi, I'm Shamim 👋
-</h1>
+# Hej, jag heter Shamim Russell 👋
 
-<h3 align="center">
-IT Test Specialist (Student) | Cybersecurity Enthusiast
-</h3>
+**IT-testspecialist (student)** · LIA hos Gardeco Affärssystem · Stockholm
 
-<p align="center">
-<a href="https://github.com/shamimrussell">GitHub</a> • 
-<a href="https://www.linkedin.com/in/shamim-russell-b5a78587/">LinkedIn</a>
-</p>
+Testspecialist under utbildning (examen dec 2026) med bakgrund inom psykologi och socialtjänst – en kombination som ger mig vana vid att identifiera behov, analysera avvikelser och kommunicera tydligt med olika intressenter.
 
----
+Genom min LIA hos Gardeco Affärssystem arbetar jag praktiskt med manuell och automatiserad testning (Python, Playwright, Jira) av affärskritiska system, och bygger just nu en AI-agent för att automatisera ERP-testning. Jag ser testning som en kvalitetsfråga snarare än bara felsökning – mitt mål är att hjälpa team leverera system som faktiskt fungerar för användarna.
 
-<h2>🌱 Currently Learning & Practicing</h2>
+## 🛠️ Teknisk kompetens
 
-- 📚 <b>Data Structures & Algorithms</b>  
-  - Practicing DSA in Python  
+**Testmetodik:** Teststrategi, testdesign, enhetstest till regressionstest
+**Automatisering:** Python, Pytest, Playwright, SQL, Git/GitHub Actions, k6
+**Verktyg:** Jira, Confluence, Zephyr, Xray, Docker, Postman
+**Arbetssätt:** Scrum, SAFe, GDPR, dokumentation, teamarbete
 
-- 🔍 <b>API Testing</b>  
+## 🎓 Utbildning
 
-- 🤖 <b>Test Automation</b>  
-  - Building automated test frameworks  
+- IT-testspecialist – FransSchartau Handelsinstitut (2025–pågående, examen dec 2026)
+- Grunderna i AI I & II – Linköpings universitet (2026–pågående)
+- Filosofie magisterexamen, Psykologi: Lärande, utveckling och kommunikation – Linköpings universitet
+- Filosofie kandidatexamen, Psykologi – Stockholms universitet
 
-- 🔄 <b>CI/CD</b>  
-  - Learning pipeline integration & automated deployments  
+## 📝 Certifiering
 
----
+- 🔄 ISTQB Foundation – tas under höstterminen 2026
 
-<h2>🗂️ Software & QA Projects</h2>
+## 💼 Bakgrund i korthet
 
-<b>Applied Script</b>
-- 🐍 <a href="https://github.com/Shamimrussell/applied-script-projektarbete">Python Project</a>  
+Innan jag växlade in mot test och kvalitetssäkring arbetade jag flera år som socialsekreterare, bland annat med utredning och handläggning inom ekonomiskt bistånd samt med ensamkommande barn. Den erfarenheten av rättssäkerhet, noggrannhet och att navigera komplexa regelverk följer med mig in i testarbetet.
 
-<b>Test Automation</b>  
-- 🚧 Coming Soon  
+## 🗂️ Utvalda projekt
 
----
+- **testautomation_ind** – Individuell testautomation med Python, Pytest och k6 (lasttestning)
+- **personregister-testmiljo** – GDPR-kompatibel testmiljö med Docker
+- **gdpr-test-data** – Säker hantering och anonymisering av testdata
 
-<h2>☢️ Cybersecurity Projects</h2>
+## 🤳 Connect with me
 
-<b>Security & Data Projects</b>  
-- 🚧 Under Progress  
-
----
-
-<h2>📝 Certifications</h2>
-
-- ✅ ISTQB Certified Tester (May 2026)
-
----
-
-<h2 align="center">🤳 Connect with me</h2>
-
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/shamim-russell-b5a78587/">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30px"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/shamaniax/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="30px"/>
 </a>
 </p>
